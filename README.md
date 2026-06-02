@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3V6am95N3pndm81b3Nid29id3Z0Y2N0M3R6bnd2YmR4ZndpZno1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6Zt8MY4m9e6AMKAI/giphy.gif" width="450" alt="Rick Grimes Coding Vibe" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHYxdmN5b3VpZ3R4M2Y0ZnA3ZndpZno1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qss0b8SBMm0bK6XvR4/giphy.gif" width="400" alt="Coding Vibe" />
 </p>
 
 ---
