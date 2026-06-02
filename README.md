@@ -4,41 +4,20 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Python+Developer;JavaScript+Enthusiast;Telegram+Bot+Creator;Automation+Lover;Cloudflare+Workers" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500">
-</p>
+---
+
+## 🚀 About Me
+
+* 🐍 Python Developer
+* ⚡ JavaScript Enthusiast
+* 🤖 Telegram Bot Creator
+* 🌐 Web Scraping & APIs
+* ☁️ Cloudflare Workers
+* 🚀 Open Source Lover
 
 ---
 
-# 🚀 About Me
-
-```python
-class RickGrimes:
-
-    def __init__(self):
-        self.name = "Rick Grimes"
-        self.username = "rickgrimesbot1"
-
-        self.languages = [
-            "Python",
-            "JavaScript"
-        ]
-
-        self.interests = [
-            "Telegram Bots",
-            "Automation",
-            "Web Scraping",
-            "Cloudflare Workers",
-            "APIs"
-        ]
-
-    def say_hi(self):
-        return "Welcome to my GitHub Profile!"
-```
-
----
-
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,nodejs,git,github,linux,vscode,redis,sqlite,cloudflare,html,css" />
@@ -46,7 +25,7 @@ class RickGrimes:
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=rickgrimesbot1&show_icons=true&theme=tokyonight" />
@@ -58,7 +37,7 @@ class RickGrimes:
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
 <p align="center">
 
