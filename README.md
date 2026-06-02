@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Rick Grimes</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Python+Developer;JavaScript+Enthusiast;Telegram+Bot+Creator;Automation+Lover;Web+Scraping+%26+Cloudflare+Workers" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Python+Developer;JavaScript+Enthusiast;Telegram+Bot+Creator;Automation+Lover;Cloudflare+Workers" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="450">
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500">
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 ```python
 class RickGrimes:
@@ -38,7 +38,7 @@ class RickGrimes:
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,nodejs,git,github,linux,vscode,redis,sqlite,cloudflare,html,css" />
@@ -46,28 +46,19 @@ class RickGrimes:
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=rickgrimesbot1&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickgrimesbot1&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rickgrimesbot1&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=rickgrimesbot1&theme=tokyonight" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rickgrimesbot1&theme=tokyonight&row=1&column=7" />
-</p>
-
----
-
-## 📫 Connect With Me
+# 📫 Connect With Me
 
 <p align="center">
 
@@ -83,17 +74,11 @@ class RickGrimes:
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rickgrimesbot1/rickgrimesbot1/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rickgrimesbot1&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
+
+---
 
 <p align="center">
   <b>🐍 Python • ⚡ JavaScript • 🤖 Telegram Bots • ☁️ Cloudflare Workers • 🚀 Open Source</b>
