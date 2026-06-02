@@ -67,16 +67,16 @@ class RickGrimes:
 
 ---
 
-## 🌐 Connect With Me
+## 📫 Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/rickgrimesbot1">
-  <img src="https://img.shields.io/badge/GitHub-rickgrimesbot1-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-rickgrimesbot1-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://t.me/J1_CHANG_WOOK">
-  <img src="https://img.shields.io/badge/Telegram-@J1_CHANG_WOOK-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
+<img src="https://img.shields.io/badge/Telegram-@J1_CHANG_WOOK-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 
 </p>
