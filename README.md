@@ -12,12 +12,35 @@
 
 ## 🚀 About Me
 
-* 🐍 **Python Developer**
-* ⚡ **JavaScript Enthusiast**
-* 🤖 **Telegram Bot Creator**
-* 🌐 **Web Scraping & APIs**
-* ☁️ **Cloudflare Workers**
-* 🚀 **Open Source Lover**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Developer" />
+  &nbsp; 🐍 <b>Python Developer:</b> Crafting clean, efficient, and scalable backend code.
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Enthusiast" />
+  &nbsp; ⚡ <b>JavaScript Enthusiast:</b> Exploring modern JS ecosystem and runtime environments.
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bot Creator" />
+  &nbsp; 🤖 <b>Telegram Bot Creator:</b> Building smart, automated, and interactive chat assistants.
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Web_Scraping-4B0082?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMSA2aDJ2MmgtMnYtMm0wIDRoMnY2aC0ydi02eiIvPjwvc3ZnPg==&logoColor=white" alt="Web Scraping" />
+  &nbsp; 🌐 <b>Web Scraping & APIs:</b> Extracting insights from data and integrating web ecosystems.
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare Workers" />
+  &nbsp; ☁️ <b>Cloudflare Workers:</b> Deploying blazing-fast serverless functions at the edge.
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Open_Source-000000?style=for-the-badge&logo=github&logoColor=white" alt="Open Source Lover" />
+  &nbsp; 🚀 <b>Open Source Lover:</b> Contributing back to the developer community and building together.
+</p>
 
 ---
 
